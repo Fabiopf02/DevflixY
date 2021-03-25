@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DEVFLIX</title>
+  <meta name="description" content="Um clone da Netflix utilizando HTML, CSS e Javascript, adaptado para a comunidade de desenvolvimento.">
+  <meta name="keywords" content="HTML, CSS, Javascript, Fabiopf02, Dev, Devflix">
+  <meta name="author" content="Fábio pereira França">
+  <meta name="theme-color" content="#000000">
+  <link rel="stylesheet" href="./styles/main.css">
+  <link rel="stylesheet" href="./styles/details.css">
+  
+  <link rel="stylesheet" href="./styles/responsive.css">
+
+  <!-- owl css -->
+  <link rel="stylesheet" href="./styles/owl/owl.carousel.min.css">
+  <link rel="stylesheet" href="./styles/owl/owl.theme.default.min.css">
+
+  <link rel="shortcut icon" href="./img/icon.png" type="image/png">
+</head>
+<body>
+  <div id="container">
+
+    <header id="header">
+      <div class="container">
+        <h2 class="logo">&lt;DEVFLIX /&gt;</h2>
+        <nav>
+          <a href="#" class="active">Início</a>
+          <a href="#series">Séries</a>
+          <a href="#videos">Vídeos</a>
+        </nav>
+      </div>
+    </header>
+  
+    <main>
+      <div class="main-movie">
+        <img />
+        <div class="s">
+          <div class="container">
+            <h3 class="title"></h3>
+            <p class="description ellip"></p>
+            <div class="buttons">
+              <a class="btn bg-white" target="_blank">
+                <i class="fas fa-play"></i>
+                Assistir
+              </a>
+              <a class="btn info">
+                <i class="fas fa-info-circle"></i>
+                Mais informações
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+  
+    <section class="ct">
+      <div class="movie-carousel videos">
+        <h4>Vídeos populares na <span class="dev">&lt;DEVFLIX/&gt;</span></h4>
+        <div class="owl-carousel owl-theme"></div>
+      </div>
+      <div class="movie-carousel2 series">
+        <h4>Séries populares na <span class="dev">&lt;DEVFLIX/&gt;</span></h4>
+        <div class="owl-carousel owl-theme"></div>
+      </div>
+    </section>
+
+    <section id="details" class="hide">
+      <div class="d">
+        <header>
+          <h2 class="title">Vídeo</h2>
+          <div class="close">✖</div>
+        </header>
+        <main>
+          <a target="_blank" class="watch">
+            <img class="bn" alt="miniature">
+          </a>
+          <div class="i">
+            <h3 class="name"></h3>
+            <p></p>
+          </div>
+          <div class="ep">
+            <h4></h4>
+            <ol></ol>
+          </div>
+        </main>
+        <footer>
+          <h4>Por: <a target="_blank"></a></h4>
+        </footer>
+      </div>
+    </section>
+
+    <footer>
+      <div class="container">
+        <h2 class="org">&lt; Feito por <a href="https://github.com/Fabiopf02">Fabiopf02</a> /&gt;</h2>
+      </div>
+    </footer>
+  </div>
+
+
+  <script src="https://kit.fontawesome.com/e269c6c40a.js" crossorigin="anonymous"></script>
+  <script src="./js/owl/jquery.min.js"></script>
+  <script type="module" src="./js/main.js"></script>
+  <script src="./js/owl/owl.carousel.min.js"></script>
+  <script src="./js/scroll.js"></script>
+
+</body>
+</html>

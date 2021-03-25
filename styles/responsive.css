@@ -1,0 +1,46 @@
+@media (max-width: 700px) {
+  #header .logo {
+    font-size: 24px !important;
+  }
+  #header .container {
+    display: flex;
+    padding: 0;
+  }
+  #header nav a {
+    margin-right: 5px;
+  }
+  #header .container {
+    margin-left: 10px;
+  }
+
+  .main-movie {
+    min-height: 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .main-movie .container {
+    width: 90%;
+    margin-top: 5px;
+  }
+  .main-movie .title {
+    font-size: 20px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+
+  .main-movie .description {
+    font-size: 16px;
+  }
+
+  .btn {
+    width: auto;
+    padding: 5px;
+  }
+}
+
+@media screen and (min-width: 1000px) {
+  .description {
+    width: 50%;
+  }
+}
