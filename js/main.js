@@ -1,6 +1,6 @@
 import movies from '../data/movies.js'
 import series from '../data/series.js'
-import { showDetails, preview } from './details.js'
+import { showDetails } from './details.js'
 
 const owlCarousel = $('.movie-carousel .owl-carousel')
 const owlCarousel2 = $('.movie-carousel2 .owl-carousel')
@@ -46,8 +46,6 @@ function createItems(data, owl) {
 
     $('<img />', { class: 'movie-box', src: movie.image, alt: movie.title })
       .appendTo(item)
-
-    preview(movie, item)
 
     item.appendTo(owl)
   })

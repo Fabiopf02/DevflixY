@@ -8,7 +8,6 @@ function showDetails(data) {
 
   $('#details .d main a').attr('href', data.link)
   $('#details .d main .bn').attr('src', data.image)
-  preview(data, $('#details .d main .bn'))
 
   $('#details .d main .i .name').text(data.title ? data.title : data.more.title)
 
@@ -33,7 +32,7 @@ function showDetails(data) {
     })
   }
   if (data.description!==undefined || data.more)
-    $('#details .d main .i p').text(data.description ? data.description : data.more.description)
+    $('#details .d main .i p').html(data.description ? data.description : data.more.description)
   $('#details .d footer h4 a').text(data.by)
   $('#details .d footer h4 a').attr('href', data.org)
 
@@ -53,14 +52,4 @@ function hideDetails() {
   $('#details').addClass('hide')
 }
 
-function preview(data, element) {
-  if (data.preview) {
-    element.hover(function({ target }) {
-      $(target).attr('src', data.preview)
-    }, function({ target }) {
-      $(target).attr('src', data.image)
-    })
-  }
-}
-
-export { showDetails, preview }
+export { showDetails }

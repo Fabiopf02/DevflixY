@@ -8,7 +8,6 @@ export default [
         E nesse encontro, o foco será Elixir.`,
     },
     image: "https://i.ytimg.com/vi/8asV5hADN78/hq720.jpg",
-    preview: "https://i.ytimg.com/an_webp/8asV5hADN78/mqdefault_6s.webp?du=3000&sqp=CI3b74IG&rs=AOn4CLD5PYIP2Ki5Loys2G2IeArU8SJcTw",
     by: "Rocketseat",
     link: "https://www.youtube.com/watch?v=8asV5hADN78",
     org: "https://rocketseat.com.br",
@@ -20,7 +19,6 @@ export default [
         de interpretação do enunciado para que você execute um código de sucesso!`,
     },
     image: "https://i.ytimg.com/vi/StmCcqmgZfg/hq720.jpg",
-    preview: "https://i.ytimg.com/an_webp/StmCcqmgZfg/mqdefault_6s.webp?du=3000&sqp=CIjp74IG&rs=AOn4CLDRww-f58w4GutpH9EbIWjbw09-Zg",
     by: "Digital Innovation One",
     link: "https://www.youtube.com/watch?v=StmCcqmgZfg",
     org: "https://digitalinnovation.one/",
@@ -33,7 +31,6 @@ export default [
         JavaScript! Veremos tipos de testes, ferramentas e como testar a nossa aplicação.`,
     },
     image: "https://i.ytimg.com/vi/Z-f8868RTE4/hq720.jpg",
-    preview: "https://i.ytimg.com/an_webp/Z-f8868RTE4/mqdefault_6s.webp?du=3000&sqp=CPTa74IG&rs=AOn4CLDwvj6gNfnxtCYRahVHZ4QykG9ROA",
     by: "Digital innovation One",
     link: "https://www.youtube.com/watch?v=Z-f8868RTE4",
     org: "https://digitalinnovation.one/",
@@ -43,7 +40,6 @@ export default [
     description: `Você já ouviu falar no SOLID? São 5 princípios da programação orientada a objetos que vai mudar sua 
       percepção de como deixar seu projeto de software muito mais organizado e preparado para crescer.`,
     image: "https://i.ytimg.com/vi/mkx0CdWiPRA/hq720.jpg",
-    preview: "https://i.ytimg.com/an_webp/mkx0CdWiPRA/mqdefault_6s.webp?du=3000&sqp=CMDp74IG&rs=AOn4CLDW-o1kaDE3qF2k-xIcXSDkxOqltg",
     by: "Código Fonte TV",
     link: "https://www.youtube.com/watch?v=mkx0CdWiPRA",
     org: "https://www.codigofonte.com.br/",
@@ -60,7 +56,6 @@ export default [
       move o Desenvolvimento Web nos dias de hoje, incluindo como fazer respostas utilizando JSON.
     `,
     image: "https://i.ytimg.com/vi/f7JWDLFhR_c/hq720.jpg",
-    preview: "https://i.ytimg.com/an_webp/f7JWDLFhR_c/mqdefault_6s.webp?du=3000&sqp=CP3g74IG&rs=AOn4CLAqq0wOQBdjsSSX-Qjxy1jTgIvqrw",
     by: "Filipe Deschamps",
     link: "https://www.youtube.com/watch?v=f7JWDLFhR_c",
     org: "https://filipedeschamps.com.br/",
@@ -73,7 +68,6 @@ export default [
     Se por acaso eu decidisse fechar meu canal hoje, eu diria que este seria um FINALE digno do que eu produzi até agora.
     Este vídeo vai ser um dos mais longos e talvez até um pouco cansativo em partes mas é porque eu realmente quero martelar pela última vez o que eu venho falando faz um ano e meio sobre o processo de aprendizado, particularmente para iniciantes que querem aprender programação.`,
     image: "https://i.ytimg.com/vi/oUPaJxk6TZ0/hq720.jpg",
-    preview: "https://i.ytimg.com/an_webp/oUPaJxk6TZ0/mqdefault_6s.webp?du=3000&sqp=CIyY74IG&rs=AOn4CLD7Pq-w6K51bNhpJ2QMKAEK4bSyPg",
     by: "Fabio Akita",
     link: "https://www.youtube.com/watch?v=oUPaJxk6TZ0",
     org: "https://www.akitaonrails.com/",
@@ -84,7 +78,6 @@ export default [
     Nesse vídeo eu mostro 3 projetos simples, bem simples mesmo, que podem gerar até 3 mil dólares por mês. O legal é que qualquer iniciante pode fazer, e não precisa sabe nada de Backend.
     Tire sua ideia do papel.`,
     image: "https://i.ytimg.com/vi/n3tMEOw9KGY/hq720.jpg",
-    preview: "https://i.ytimg.com/an_webp/n3tMEOw9KGY/mqdefault_6s.webp?du=3000&sqp=CPDl74IG&rs=AOn4CLCrgGa1nSanHT_S2VtZcWnuYMO1QA",
     by: "Programador BR",
     link: "https://www.youtube.com/watch?v=n3tMEOw9KGY",
     org: "https://programadorbr.com/",
@@ -93,7 +86,6 @@ export default [
     title: "7 ERROS de quem está começando a PROGRAMAR",
     description: `Iniciante sofre em qualquer carreira. São muitos os desafios a serem superados, que podem ser técnicos ou até mesmo pessoais. A boa notícia é que você não precisa tropeçar em todos eles. É possível evitar alguns erros comuns com as dicas de quem ja passou por isso. Confira nesse vídeo 7 erros que os programadores iniciantes cometem e atrasam sua evolução. Dá play!`,
     image: "https://i.ytimg.com/vi/k6cyaHNsqzI/hq720.jpg",
-    preview: "https://i.ytimg.com/an_webp/k6cyaHNsqzI/mqdefault_6s.webp?du=3000&sqp=CPbo74IG&rs=AOn4CLBMXztF5h-TeGOXhFjLtL78Xtf22A",
     by: "DevMedia",
     link: "https://www.youtube.com/watch?v=k6cyaHNsqzI",
     org: "https://devmedia.com.br"

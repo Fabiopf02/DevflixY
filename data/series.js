@@ -2,7 +2,6 @@ export default [
   {
     title: "Inteligência Artificial + Machine Learning + Data Science + Deep Learning",
     image: "https://i.ytimg.com/vi/ccZ2pyr3YDw/hq720.jpg",
-    preview: "https://i.ytimg.com/an_webp/ccZ2pyr3YDw/mqdefault_6s.webp?du=3000&sqp=CPC674IG&rs=AOn4CLCY0SrAodVYCCDf4WLGAGJ23qe1TQ",
     link: "https://www.youtube.com/watch?v=ccZ2pyr3YDw&list=PLMdYygf53DP7YZiFUtGTWJJlvynRyrna-",
     by: "Filipe Deschamps / Guilherme Silveira",
     org: "https://filipedeschamps.com.br/",
@@ -41,7 +40,6 @@ export default [
     description: `O Docker é uma ferramenta para criação de containers, com ela podemos separar toda configuração e lógica de inicialização das nossas aplicações do nosso ambiente, evitando que uma aplicação influencie no comportamento de outra.
       Nesse vídeo vamos ver como configurar o Docker do zero para um ambiente de desenvolvimento NodeJS utilizando o Docker Compose para orquestração dos containers.`,
     image: "https://i.ytimg.com/vi/AVNADGzXrrQ/hq720.jpg",
-    preview: "https://i.ytimg.com/an_webp/AVNADGzXrrQ/mqdefault_6s.webp?du=3000&sqp=CMTU74IG&rs=AOn4CLCeFUI3BOjgGBT7Gnpr67erS__VzA",
     link: "https://www.youtube.com/watch?v=AVNADGzXrrQ&list=PL85ITvJ7FLojBAbkjBKs14ghxyqh-OHYj",
     by: "Rocketseat",
     org: "https://rocketseat.com.br",
@@ -63,7 +61,6 @@ export default [
     description: `Usar o Notification do Browser com Javascript é muito fácil.
     Neste vídeo nós vamos dar início ao um aplicativo que vai nos ajudar a lembrar de postar no Instagram. Será um lembrete de hora em hora e nós vamos aprender a utilizar o Notification do Browser com Javascript, e até o final dessa série, nós vamos aprender a colocar o aplicativo nativo para o Desktop. Vai ser SENSACIONAL... Vem comigo!`,
     image: "https://i.ytimg.com/vi/Mhd6x2Z-F_w/hq720.jpg",
-    preview: "https://i.ytimg.com/an_webp/Mhd6x2Z-F_w/mqdefault_6s.webp?du=3000&sqp=CKDH74IG&rs=AOn4CLCiDFcwDj3lDy7N9bR1HfkocGDrXg",
     link: "https://www.youtube.com/watch?v=Mhd6x2Z-F_w&list=PLeLKux5eT3kbD0iUjYCHmea57EGQSphc9",
     by: "Mayk Brito",
     org: "https://www.youtube.com/watch?v=Mhd6x2Z-F_w&list=PLeLKux5eT3kbD0iUjYCHmea57EGQSphc9",
@@ -98,7 +95,6 @@ export default [
     Neste curso aprenderemos o que é NoSQL, um paradigma de banco de dados que vem ganhando cada vez mais espaço no mercado atual. Conheceremos aqui os principais conceitos a respeito desse modelo e os principais tipos de bancos de dados NoSQL. 
     Ao fim, veremos uma demonstração prática de uso do MongoDB, um dos principais bancos de dados NoSQL da atualidade.`,
     image: "https://i.ytimg.com/vi/890222oPMmM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPu8ksXpBKePvOZ-HkRwH1XBKMWQ",
-    preview: "https://i.ytimg.com/an_webp/890222oPMmM/mqdefault_6s.webp?du=3000&sqp=CM_Z74IG&rs=AOn4CLDxR78dGSlK8AKPznIAl1NYKASm-w",
     link: "https://www.youtube.com/watch?v=890222oPMmM&list=PLi75dzoFwEboGvpadZzl22XIRkEiBi8An",
     by: "DevMedia",
     org: "https://devmedia.com.br",
